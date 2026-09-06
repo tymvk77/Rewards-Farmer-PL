@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.txt
+*.log
+visual_search.json
+!nouns.txt
+Todo.md
+data-dir/
+__pycache__/
+.venv/
+MicroRewards.vbs
+MicroRewards.ico
+microrewards.log
